@@ -1,3 +1,5 @@
+--Data was downloaded from here: https://ourworldindata.org/covid-deaths
+
 -- Create smaller table only with data I want to use
 
 SELECT [iso_code]
